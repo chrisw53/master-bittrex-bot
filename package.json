@@ -1,0 +1,19 @@
+{
+  "name": "bittrex-bot-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-config-google": "^0.9.1"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1",
+    "node.bittrex.api": "^0.3.3"
+  }
+}
